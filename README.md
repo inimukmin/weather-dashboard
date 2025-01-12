@@ -64,7 +64,8 @@ aws configure
 
 What I Learned:
 
-This project demonstrates how to integrate multiple technologies to create a robust and scalable Weather Data Collection System. By leveraging APIs, cloud storage, and Python’s simplicity, you can efficiently collect and store data for further analysis or display.
+This project demonstrates how to integrate multiple technologies to create a robust and scalable Weather Data Collection System.
+By leveraging APIs, cloud storage, and Python’s simplicity, you can efficiently collect and store data for further analysis or display.
 
 Future Enhancements:
 Alerts for extreme weather conditions
