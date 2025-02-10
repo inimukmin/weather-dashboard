@@ -4,7 +4,7 @@
 
 In this project, we'll build a weather dashboard that uses the OpenWeather API to fetch real-time weather data and store it in AWS S3. This solution provides a way to track weather conditions across multiple cities while maintaining historical data.
 
-![Weather Dashboard Architecture](weather_dashboard_architecture.png "Weather Dashboard Architecture")
+![weather_dashboard_architecture](https://github.com/user-attachments/assets/1a8f686b-9d7b-4c99-a940-358dc9a3ce39)
 
 ## Getting Started
 
